@@ -5,23 +5,23 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace All_pobrming
-{
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.Write("Hello World");
+//namespace All_pobrming
+//{
+    //internal class Program
+  //  {
+        //static void Main(string[] args)
+        //{
+        //    Console.Write("Hello World");
           
-            numbers objnumbers = new numbers();
-            objnumbers.PrintNumbers();
+        //    numbers objnumbers = new numbers();
+        //    objnumbers.PrintNumbers();
 
-            starPattern objstarstarPattern = new starPattern();
-            objstarstarPattern.Printstar();
+        //    starPattern objstarstarPattern = new starPattern();
+        //    objstarstarPattern.Printstar();
 
-            Console.ReadLine();
+        //    Console.ReadLine();
 
-        }
+        //}
        
-    }
-}
+   // }
+//}
