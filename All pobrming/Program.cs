@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 //namespace All_pobrming
 //{
-    //internal class Program
+    //public class Program
   //  {
         //static void Main(string[] args)
         //{

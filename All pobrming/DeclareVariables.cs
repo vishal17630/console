@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 //namespace All_pobrming
 //{
-//    public class variableName
+//    public class DeclareVariables
 //    {
 //        static void Main(string[] args)
 //        {
-//            string Name = "vishal";
-//            Console.WriteLine(Name);
+//            int x = 5, y = 6, z = 50;
+//            Console.WriteLine(x + y + z);
 //            Console.ReadLine();
 //        }
 //    }

@@ -44,15 +44,24 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="class2.cs" />
+    <Compile Include="DataTypes.cs" />
+    <Compile Include="DeclareVariables.cs" />
+    <Compile Include="Identifiers.cs" />
+    <Compile Include="Integer Types\IntegerTypes int.cs" />
+    <Compile Include="Integer Types\IntegerTypes Long.cs" />
     <Compile Include="numbers.cs" />
+    <Compile Include="NumericValues.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SameValue.cs" />
     <Compile Include="star\hello.cs" />
     <Compile Include="star\Star2.cs" />
     <Compile Include="star\starPattern.cs" />
-    <Compile Include="variable.cs" />
+    <Compile Include="variable 2.cs" />
     <Compile Include="variableClass.cs" />
     <Compile Include="variableName.cs" />
+    <Compile Include="VariablesDisplay FullName.cs" />
+    <Compile Include="VariablesDisplay.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

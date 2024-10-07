@@ -6,12 +6,13 @@ using System.Threading.Tasks;
 
 //namespace All_pobrming
 //{
-//    public class variableName
+//    public class SameValue
 //    {
 //        static void Main(string[] args)
 //        {
-//            string Name = "vishal";
-//            Console.WriteLine(Name);
+//            int x, y, z;
+//            x = y = z = 90;
+//            Console.WriteLine(x + y + z);
 //            Console.ReadLine();
 //        }
 //    }
